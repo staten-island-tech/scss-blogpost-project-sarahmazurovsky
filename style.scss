@@ -1,12 +1,4 @@
-$colors: (
-  primary: #fffde7,
-  primary-light: #cccab5,
-  primary-text-color: #fff,
-);
-
-@function color($color-name) {
-  @return map-get($colors, $color-name);
-}
+@import "_variables.scss";
 
 body {
   margin: 0;
