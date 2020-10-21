@@ -59,7 +59,7 @@ a {
   color: #fff;
 }
 
-.box-1 {
+.box {
   background-color: #cccab5;
   color: #fff;
   height: 30rem;
@@ -67,14 +67,6 @@ a {
   margin: 3rem;
   border-radius: 2rem;
   border: 5px black dotted;
-}
-
-.box-1-heading {
-  font-size: 2rem;
-  text-transform: uppercase;
-  letter-spacing: 1rem;
-  font-weight: 700;
-  text-decoration: underline;
 }
 
 .box-1-image {
@@ -83,49 +75,14 @@ a {
   border-radius: 15rem;
 }
 
-.box-2 {
-  background-color: #cccab5;
-  color: #fff;
-  height: 30rem;
-  width: 70rem;
-  margin: 3rem;
-  border-radius: 2rem;
-  border: 5px black dotted;
-}
-
-.box-2-heading {
+.heading {
   font-size: 2rem;
   text-transform: uppercase;
   letter-spacing: 1rem;
   text-decoration: underline;
 }
 
-.box-2-image {
-  height: 15rem;
-  width: 15rem;
-  border-radius: 15rem;
-}
-
-.box-3 {
-  background-color: #cccab5;
-  color: #fff;
-  height: 30rem;
-  width: 70rem;
-  margin: 3rem;
-  border-radius: 2rem;
-  border: 5px black dotted;
-}
-
-.box-3-heading {
-  font-size: 2rem;
-  text-transform: uppercase;
-  letter-spacing: 1rem;
-  text-decoration: underline;
-}
-
-.box-3-image {
-  height: 15rem;
-  width: 15rem;
-  border-radius: 15rem;
+.text {
+  font-weight: 200;
 }
 /*# sourceMappingURL=style.css.map */
